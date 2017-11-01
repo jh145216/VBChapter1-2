@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B1EA2BD4-DB69-4C07-BB9F-B9764B788BBB}</ProjectGuid>
+    <ProjectGuid>{D939999E-FD74-46EF-A7B7-93E6895377C7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>KiloConverter.My.MyApplication</StartupObject>
-    <RootNamespace>KiloConverter</RootNamespace>
-    <AssemblyName>KiloConverter</AssemblyName>
+    <StartupObject>French_Numbers.My.MyApplication</StartupObject>
+    <RootNamespace>French_Numbers</RootNamespace>
+    <AssemblyName>French Numbers</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
@@ -20,7 +20,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>KiloConverter.xml</DocumentationFile>
+    <DocumentationFile>French Numbers.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -30,7 +30,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>KiloConverter.xml</DocumentationFile>
+    <DocumentationFile>French Numbers.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
